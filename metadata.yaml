@@ -1,0 +1,36 @@
+_repo: Magdalena-Rudenschold-Historiallinen-kertomus-Kustaa-IIIn-ja-herttua-hallitsijan-ajoilta_68012
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brummer, F. F. (Frans Ferdinand)
+    aliases:
+    - Brummer, Frans Ferdinand
+    - –r–r
+    birthdate: 1847
+    deathdate: 1893
+    gutenberg_agent_id: '33001'
+    url: http://www.gutenberg.org/2009/agents/33001
+    wikipedia: https://fi.wikipedia.org/wiki/F._F._Brummer
+creator:
+  author:
+    agent_name: Pfeiffer, Sara
+    gutenberg_agent_id: '54570'
+    url: http://www.gutenberg.org/2009/agents/54570
+description: ''
+gutenberg_issued: '2022-05-07'
+identifiers:
+  gutenberg: '68012'
+language: fi
+pgterms:marc905: 20220409005704pfeiffer
+pgterms:marc906: '1886'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: Finland :Emil Hagelberg,1886.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Magdalena Rudenschöld: Historiallinen kertomus Kustaa III:n ja herttua-hallitsijan
+  ajoilta'
+url: http://www.gutenberg.org/ebooks/68012
