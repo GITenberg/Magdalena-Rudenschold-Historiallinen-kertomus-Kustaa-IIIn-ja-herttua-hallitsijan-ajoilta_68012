@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '33001'
     url: http://www.gutenberg.org/2009/agents/33001
     wikipedia: https://fi.wikipedia.org/wiki/F._F._Brummer
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pfeiffer, Sara
     gutenberg_agent_id: '54570'
     url: http://www.gutenberg.org/2009/agents/54570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68012#Magdalena-Rudenschold-Historiallinen-kertomus-Kustaa-IIIn-ja-herttua-hallitsijan-ajoilta
 gutenberg_issued: '2022-05-07'
 identifiers:
   gutenberg: '68012'
